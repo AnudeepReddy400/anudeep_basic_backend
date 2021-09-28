@@ -1,0 +1,24 @@
+{
+    "development": {
+       
+        "username": "root",
+        "password": "",
+        "database": "periopt",
+        "host": "localhost",
+        "dialect": "mysql"
+    },  
+    "staging": {
+        "username": "root",
+        "password": "Enuke@@321",
+        "database": "enuke_periopthealth",
+        "host": "127.0.0.1",
+        "dialect": "mysql"
+    },
+    "production": {
+        "username": "root",
+        "password": "root",
+        "database": "enuke_healthyliving",
+        "host": "127.0.0.1",
+        "dialect": "mysql"
+    }
+}
